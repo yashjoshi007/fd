@@ -1,1 +1,1 @@
-web: streamlit run track.py
+web: track.py
